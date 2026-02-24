@@ -1,6 +1,6 @@
 # LNA-2W
 High Linearity Amplifier 2W
 Working frequency 50MHz - 1.5GHz.
-The schematic components are calculated for 900MHz Band.
-V1.0
+450-800MHz
+V1.1
 Z32IT
